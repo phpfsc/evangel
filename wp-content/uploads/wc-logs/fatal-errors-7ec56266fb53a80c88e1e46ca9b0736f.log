@@ -1,0 +1,967 @@
+2018-01-08T07:31:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-01-08T07:31:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-01-08T07:31:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-01-08T07:31:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-01-08T07:31:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-01-08T07:31:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-01-11T05:53:20+00:00 CRITICAL Call to undefined function twentysixteen_post_thumbnail()
+
+2018-01-15T09:10:51+00:00 CRITICAL Cannot redeclare nom_buy_now_after_add_to_cart_button() (previously declared in G:\wamp\www\evangel\wp-content\themes\evangel\functions.php:954)
+
+2018-01-15T09:30:30+00:00 CRITICAL Cannot redeclare nom_buy_now_after_add_to_cart_button() (previously declared in G:\wamp\www\evangel\wp-content\themes\evangel\functions.php:946)
+
+2018-01-15T09:51:15+00:00 CRITICAL Call to a member function add_to_cart() on a non-object
+
+2018-01-15T09:51:49+00:00 CRITICAL Call to a member function get_checkout_url() on a non-object
+
+2018-01-15T09:54:35+00:00 CRITICAL Call to a member function add_to_cart() on a non-object
+
+2018-01-16T04:20:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-03-26T04:44:56+00:00 CRITICAL Cannot redeclare woocommerce_quantity_input() (previously declared in E:\xamp\htdocs\evangel\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1099)
+
+2018-03-26T04:45:59+00:00 CRITICAL Cannot redeclare woocommerce_quantity_input() (previously declared in E:\xamp\htdocs\evangel\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1099)
+
+2018-03-26T04:46:08+00:00 CRITICAL Cannot redeclare woocommerce_quantity_input() (previously declared in E:\xamp\htdocs\evangel\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1099)
+
+2018-03-26T04:50:55+00:00 CRITICAL Cannot redeclare woocommerce_quantity_input() (previously declared in E:\xamp\htdocs\evangel\wp-content\plugins\woocommerce\includes\wc-template-functions.php:1099)
+
+2018-03-26T06:03:43+00:00 CRITICAL Call to a member function is_in_stock() on a non-object
+
+2018-03-26T10:52:24+00:00 CRITICAL Class 'FrmField' not found
+
+2018-03-26T10:52:25+00:00 CRITICAL Class 'FrmField' not found
+
+2018-03-27T05:11:17+00:00 CRITICAL Call to a member function is_in_stock() on a non-object
+
+2018-03-27T05:12:50+00:00 CRITICAL Call to a member function is_in_stock() on a non-object
+
+2018-03-27T05:13:31+00:00 CRITICAL Call to a member function is_in_stock() on a non-object
+
+2018-03-27T05:14:23+00:00 CRITICAL Call to a member function is_in_stock() on a non-object
+
+2018-03-27T05:21:31+00:00 CRITICAL Call to a member function is_in_stock() on a non-object
+
+2018-03-27T05:21:44+00:00 CRITICAL Call to a member function is_in_stock() on a non-object
+
+2018-03-29T06:38:25+00:00 CRITICAL Call to undefined function get_checkout_url()
+
+2018-03-29T06:49:44+00:00 CRITICAL Call to a member function get_checkout_url() on a non-object
+
+2018-03-29T06:49:59+00:00 CRITICAL Call to a member function get_checkout_url() on a non-object
+
+2018-03-29T07:13:44+00:00 CRITICAL Call to a member function get_id() on a non-object
+
+2018-03-29T09:21:53+00:00 CRITICAL Cannot redeclare bryce_add_to_cart_text() (previously declared in E:\xamp\htdocs\evangel\wp-content\themes\evangel\template-parts\Home.php:119)
+
+2018-04-02T04:51:29+00:00 CRITICAL Cannot redeclare bbloomer_display_acf_field_under_images() (previously declared in E:\xamp\htdocs\evangel\wp-content\themes\evangel\functions.php:973)
+
+2018-07-30T13:23:11+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/single-product/sale-flash.php:26
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(995): wc_get_template('single-product/...')
+#2 /home2/cloudvxm/public_html/evangel/wp-includes/class-wp-hook.php(286): woocommerce_show_product_sale_flash('')
+#3 /home2/cloudvxm/public_html/evangel/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/template-parts/Books.php(36): do_action('woocommerce_bef...')
+#6 /home2/cloudvxm/public_html/evangel/wp-includes/template-loader.php(74): include('/home2/cloudvxm...')
+#7 /home2/cloudvxm/pu
+
+2018-07-30T13:24:09+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/single-product/sale-flash.php:26
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(995): wc_get_template('single-product/...')
+#2 /home2/cloudvxm/public_html/evangel/wp-includes/class-wp-hook.php(286): woocommerce_show_product_sale_flash('')
+#3 /home2/cloudvxm/public_html/evangel/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/content-single-product.php(50): do_action('woocommerce_bef...')
+#6 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(690): require('/home2/cloudvxm...')
+#7 /home2/clo
+
+2018-07-31T04:36:14+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/single-product/sale-flash.php:26
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(995): wc_get_template('single-product/...')
+#2 /home2/cloudvxm/public_html/evangel/wp-includes/class-wp-hook.php(286): woocommerce_show_product_sale_flash('')
+#3 /home2/cloudvxm/public_html/evangel/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/content-single-product.php(50): do_action('woocommerce_bef...')
+#6 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(690): require('/home2/cloudvxm...')
+#7 /home2/clo
+
+2018-07-31T04:37:03+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/single-product/sale-flash.php:26
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(995): wc_get_template('single-product/...')
+#2 /home2/cloudvxm/public_html/evangel/wp-includes/class-wp-hook.php(286): woocommerce_show_product_sale_flash('')
+#3 /home2/cloudvxm/public_html/evangel/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/content-single-product.php(50): do_action('woocommerce_bef...')
+#6 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(690): require('/home2/cloudvxm...')
+#7 /home2/clo
+
+2018-08-01T12:01:59+00:00 CRITICAL Uncaught Error: Call to undefined function YITH_WCWL() in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/header.php:406
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(688): require_once()
+#1 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(647): load_template('/home2/cloudvxm...', true)
+#2 /home2/cloudvxm/public_html/evangel/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce.php(14): get_header()
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/template-loader.php(74): include('/home2/cloudvxm...')
+#5 /home2/cloudvxm/public_html/evangel/wp-blog-header.php(19): require_once('/home2/cloudvxm...')
+#6 /home2/cloudvxm/public_html/evangel/index.php(17): require('/home2/cloudvxm...')
+#7 {main}
+  thrown
+
+2018-08-01T12:02:08+00:00 CRITICAL Uncaught Error: Call to undefined function YITH_WCWL() in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/header.php:406
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(688): require_once()
+#1 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(647): load_template('/home2/cloudvxm...', true)
+#2 /home2/cloudvxm/public_html/evangel/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce.php(14): get_header()
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/template-loader.php(74): include('/home2/cloudvxm...')
+#5 /home2/cloudvxm/public_html/evangel/wp-blog-header.php(19): require_once('/home2/cloudvxm...')
+#6 /home2/cloudvxm/public_html/evangel/index.php(17): require('/home2/cloudvxm...')
+#7 {main}
+  thrown
+
+2018-08-14T05:06:34+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/content-product.php:64
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(690): require()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/home2/cloudvxm...', false)
+#2 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(469): wc_get_template_part('content', 'product')
+#3 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce.php(45): woocommerce_content()
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/template-loader.php(74): include('/home2/cloudvxm...')
+#5 /home2/cloudvxm/public_html/evangel/wp-blog-header.php(19): require_once('/home2/cloudvxm...')
+#6 /home2/cloudvxm/public_html/evangel/index.php(17): require('/home2/cloudvxm...')
+#7 {main}
+  thrown
+
+2018-08-14T05:30:36+00:00 CRITICAL Uncaught Error: Call to a member function get_average_rating() on boolean in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/loop/rating.php:29
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(777): wc_get_template('loop/rating.php')
+#2 /home2/cloudvxm/public_html/evangel/wp-includes/class-wp-hook.php(286): woocommerce_template_loop_rating('')
+#3 /home2/cloudvxm/public_html/evangel/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/content-product.php(82): do_action('woocommerce_aft...')
+#6 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(690): require('/home2/cloudvxm...')
+#7 /home2/cloudvxm/public_h
+
+2018-08-14T05:33:43+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_attribute_name() in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/content-product.php:70
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(690): require()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/home2/cloudvxm...', false)
+#2 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(469): wc_get_template_part('content', 'product')
+#3 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce.php(45): woocommerce_content()
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/template-loader.php(74): include('/home2/cloudvxm...')
+#5 /home2/cloudvxm/public_html/evangel/wp-blog-header.php(19): require_once('/home2/cloudvxm...')
+#6 /home2/cloudvxm/public_html/evangel/index.php(17): require('/home2/cloudvxm...')
+#7 {main}
+  thrown
+
+2018-08-14T05:34:33+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_attribute_name() in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/content-product.php:68
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(690): require()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/home2/cloudvxm...', false)
+#2 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(469): wc_get_template_part('content', 'product')
+#3 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce.php(45): woocommerce_content()
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/template-loader.php(74): include('/home2/cloudvxm...')
+#5 /home2/cloudvxm/public_html/evangel/wp-blog-header.php(19): require_once('/home2/cloudvxm...')
+#6 /home2/cloudvxm/public_html/evangel/index.php(17): require('/home2/cloudvxm...')
+#7 {main}
+  thrown
+
+2018-08-14T09:23:04+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/content-product.php:70
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(690): require()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/home2/cloudvxm...', false)
+#2 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(469): wc_get_template_part('content', 'product')
+#3 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce.php(45): woocommerce_content()
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/template-loader.php(74): include('/home2/cloudvxm...')
+#5 /home2/cloudvxm/public_html/evangel/wp-blog-header.php(19): require_once('/home2/cloudvxm...')
+#6 /home2/cloudvxm/public_html/evangel/index.php(17): require('/home2/cloudvxm...')
+#7 {main}
+  thrown
+
+2018-08-14T09:23:50+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/content-product.php:70
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(690): require()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/home2/cloudvxm...', false)
+#2 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(469): wc_get_template_part('content', 'product')
+#3 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce.php(45): woocommerce_content()
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/template-loader.php(74): include('/home2/cloudvxm...')
+#5 /home2/cloudvxm/public_html/evangel/wp-blog-header.php(19): require_once('/home2/cloudvxm...')
+#6 /home2/cloudvxm/public_html/evangel/index.php(17): require('/home2/cloudvxm...')
+#7 {main}
+  thrown
+
+2018-08-14T09:24:34+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce/content-product.php:70
+Stack trace:
+#0 /home2/cloudvxm/public_html/evangel/wp-includes/template.php(690): require()
+#1 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/home2/cloudvxm...', false)
+#2 /home2/cloudvxm/public_html/evangel/wp-content/plugins/woocommerce/includes/wc-template-functions.php(469): wc_get_template_part('content', 'product')
+#3 /home2/cloudvxm/public_html/evangel/wp-content/themes/evangel/woocommerce.php(45): woocommerce_content()
+#4 /home2/cloudvxm/public_html/evangel/wp-includes/template-loader.php(74): include('/home2/cloudvxm...')
+#5 /home2/cloudvxm/public_html/evangel/wp-blog-header.php(19): require_once('/home2/cloudvxm...')
+#6 /home2/cloudvxm/public_html/evangel/index.php(17): require('/home2/cloudvxm...')
+#7 {main}
+  thrown
+
+2018-08-28T07:30:31+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_name() in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.php
+
+2018-08-28T07:31:29+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_order_name() in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcod
+
+2018-08-28T07:33:50+00:00 CRITICAL Uncaught Error: Call to a member function get_product() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.p
+
+2018-08-28T08:06:03+00:00 CRITICAL Uncaught Error: Call to a member function get_order_id() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.
+
+2018-08-28T08:06:19+00:00 CRITICAL Uncaught Error: Call to a member function get_order_id() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.
+
+2018-08-28T08:06:53+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_order_id() in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes
+
+2018-08-28T08:07:58+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_order_name() in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcod
+
+2018-08-28T08:09:01+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_order_name() in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcod
+
+2018-08-28T08:15:38+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:38
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.php(
+
+2018-08-28T08:16:29+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.php(
+
+2018-08-28T08:18:27+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::wc_order_item() in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcode
+
+2018-08-28T08:40:37+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::wc_order_item() in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(396)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcode
+
+2018-08-28T08:48:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::wc_order_item() in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcode
+
+2018-08-28T08:53:23+00:00 CRITICAL Uncaught Error: Call to a member function get_product() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.p
+
+2018-08-28T08:53:40+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_product() in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.
+
+2018-08-28T08:59:08+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::product() in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:36
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.php(
+
+2018-08-28T09:15:11+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:53
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.php(
+
+2018-08-28T09:15:50+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:51
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.php(
+
+2018-08-28T09:16:37+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:37
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(394)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcodes.php(
+
+2018-08-28T10:05:47+00:00 CRITICAL Uncaught Error: Call to a member function get_remove_url() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:28
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(402)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcode
+
+2018-08-28T10:06:08+00:00 CRITICAL Uncaught Error: Call to a member function get_remove_url() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:28
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(402)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcode
+
+2018-08-28T10:06:26+00:00 CRITICAL Uncaught Error: Call to a member function get_remove_url() on null in /home/evangelpublicati/public_html/demo/wp-content/themes/evangel/woocommerce/checkout/order-receipt.php:28
+Stack trace:
+#0 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(160): wc_get_template('checkout/order-...', Array)
+#2 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(60): WC_Shortcode_Checkout::order_pay(402)
+#3 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(76): WC_Shortcode_Checkout::output('')
+#4 /home/evangelpublicati/public_html/demo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(99): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /home/evangelpublicati/public_html/demo/wp-includes/shortcode
+
+2020-06-07T06:22:29+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-06-15T14:11:15+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-06-17T10:20:38+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-06-18T08:12:17+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-07-17T09:27:15+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-07-18T13:45:49+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-07-24T14:25:08+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-07-25T12:32:01+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-07-30T15:28:16+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-08-26T18:13:14+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-09-24T15:13:14+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-09-27T17:46:41+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-09-27T20:39:05+00:00 CRITICAL Call to undefined function wowslider()
+
+2020-12-28T11:29:14+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:29:20+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:29:26+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:38:30+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:38:30+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:38:52+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:38:57+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:39:02+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:39:24+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:41:54+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:41:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:41:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:42:03+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:42:04+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:42:13+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:42:19+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:42:19+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:42:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:42:49+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:42:52+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:42:57+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:43:04+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:43:29+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:43:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:43:36+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:43:44+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:43:44+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:43:54+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:55:19+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:56:44+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:56:45+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:56:45+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:56:47+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:56:53+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:57:22+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:57:23+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:57:24+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T11:58:25+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:00:24+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:02:22+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:02:24+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:02:33+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:02:36+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:02:44+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:02:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:18:23+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:18:23+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:18:24+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:18:30+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:19:06+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:19:12+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:19:21+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:19:33+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:20:16+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:20:17+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T12:20:17+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-28T20:51:18+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2020-12-29T09:24:59+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2020-12-29T09:25:21+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2020-12-29T09:25:28+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2020-12-29T09:25:51+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2020-12-29T21:52:19+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2020-12-29T23:47:41+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2020-12-30T11:02:43+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2020-12-31T10:49:04+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2020-12-31T21:06:27+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2021-01-01T03:51:00+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2021-01-01T07:37:54+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2021-01-01T07:55:09+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2021-01-01T11:15:34+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:15:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:15:36+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:15:37+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:15:37+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:15:48+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:15:48+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:15:54+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:15:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:16:45+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:16:52+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:16:54+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:16:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:16:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:16:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:16:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:22+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:22+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:24+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:29+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:47+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:53+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:17:58+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:18:58+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:00+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:00+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:03+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:03+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:03+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:12+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:19+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:19+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:28+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:33+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:33+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:34+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:34+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:36+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:36+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:19:48+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:27+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:28+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:28+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:29+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:40+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:42+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:42+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:42+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:43+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:43+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:20:57+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:21:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:21:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:21:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:21:36+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:21:36+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:06+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:26+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:27+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:36+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:49+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:50+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:52+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:52+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:22:57+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:23:15+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:23:39+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:23:52+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:38+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:43+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:44+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:44+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:50+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:55+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:56+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:56+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:56+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:24:56+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:25:01+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:25:53+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:26:54+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:27:54+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:28:16+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:28:54+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:29:45+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:29:53+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:36+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:43+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:43+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:44+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:45+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:46+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:46+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:46+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:46+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:46+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:47+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:47+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:31:47+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:32:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:34:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:36:34+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:38:03+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:38:05+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:38:14+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:38:19+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:04+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:04+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:06+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:06+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:06+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:07+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:13+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:13+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:14+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:15+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:28+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:30+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:47:37+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:48:04+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:48:19+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:48:29+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:49:29+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:51:30+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:02+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:02+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:04+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:27+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:33+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:34+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:34+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:52:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:53:30+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:55:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:56:03+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:56:11+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:56:15+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:56:27+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:57:30+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:57:31+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:57:39+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:57:42+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:57:43+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:57:52+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:57:52+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:58:32+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:58:53+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:58:53+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:58:53+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:58:53+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:58:53+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:59:27+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:59:27+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:59:29+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:59:35+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:59:40+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T11:59:42+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T12:00:29+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T12:02:17+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T12:02:20+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T12:02:21+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T12:02:26+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T12:02:33+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T12:02:34+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T12:02:36+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T12:20:50+00:00 CRITICAL Call to undefined method WC_Cart::display_prices_including_tax()
+
+2021-01-01T17:38:12+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+
+2021-01-01T19:48:58+00:00 CRITICAL Call to undefined method WPCF7_Submission::get_contact_form()
+

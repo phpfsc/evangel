@@ -1,0 +1,6 @@
+[06-Jul-2019 14:50:13 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2019 06:43:26 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[11-Dec-2019 10:20:00 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/evangelpublicati/public_html/wp-content/themes/twentysixteen/functions.php on line 31
+[11-Dec-2019 10:20:00 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/evangelpublicati/public_html/wp-content/themes/twentysixteen/functions.php on line 32
+[10-Jan-2020 04:54:27 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[05-Mar-2020 04:38:54 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/twentysixteen/404.php on line 10

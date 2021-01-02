@@ -1,0 +1,225 @@
+
+
+/*===============================================*/
+/* 04. Header                                    */
+/*===============================================*/
+
+/*Main Menu*/
+
+.lec_main_menu_content_menu.lec_wht_txt.text-right{
+	background: #969696;
+	box-shadow: inset 0px 10px 20px -10px rgba(0,0,0,0.7);
+}
+.lec_main_menu {
+	position: fixed;
+	right: 20px;
+	color: #ac0aac;
+	top: 40px;
+	height: 50px;
+	width: 75px;
+	cursor: pointer;
+
+	z-index: 7;
+}
+	.lec_main_menu_icon {
+		
+	}
+	.lec_main_menu_icon i {
+		display: block;
+		width: 30px;
+		height: 4px;
+		border-radius: 3px;
+		background: #ac0aac;
+		position: absolute;
+		-webkit-transition: all 0.7s;
+		-o-transition: all 0.7s;
+		transition: all 0.7s;
+	}	
+		.lec_main_menu.active .lec_main_menu_icon i,
+		.lec_main_menu.active .lec_main_menu_icon b span {
+			transform: translateY(-20px);
+			opacity: 0;
+		}
+		.lec_main_menu_icon i:nth-child(1) {
+			margin-top: 0;
+			-webkit-transition-delay: 50ms;
+			-o-transition-delay: 50ms;
+			transition-delay: 50ms;
+		}
+		.lec_main_menu_icon i:nth-child(2) {
+			margin-top: 8px;
+			-webkit-transition-delay: 100ms;
+			-o-transition-delay: 100ms;
+			transition-delay: 100ms;
+		}
+
+		.lec_main_menu_icon i:nth-child(3) {
+			margin-top: 16px;
+			-webkit-transition-delay: 150ms;
+			-o-transition-delay: 150ms;
+			transition-delay: 150ms;
+		}
+		.lec_main_menu_icon i:nth-child(4) {
+			margin-top: 16px;
+			-webkit-transition-delay: 250ms;
+			-o-transition-delay: 250ms;
+			transition-delay: 250ms;
+			background: #ac0aac ;
+			opacity: 0;
+		}
+		.lec_main_menu.active i:nth-child(4) {
+			transform: translateY(-8px);
+			opacity: 1;
+		}
+	.lec_main_menu_icon b {
+		position: absolute;
+		margin-top: -2px;
+		font-size: 14px;
+		font-weight: 600;
+		right: 0;
+			font-family: 'Muli', sans-serif;
+	}
+	.lec_main_menu_icon b span {
+		-webkit-transition: all 0.5s;
+		-o-transition: all 0.5s;
+		transition: all 0.5s;
+		display: inline-block;
+	}
+	.lec_main_menu_icon_b span {
+		transform: translateY(20px);
+		opacity: 0;
+		color: #ac0aac;
+	}
+	.lec_main_menu.active b.lec_main_menu_icon_b span {
+			transform: translateY(0);
+			opacity: 1;
+	}
+	/*Main Menu Content*/
+	.lec_main_menu_content {
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		position: fixed;
+		z-index: 6;
+		pointer-events: none;
+		opacity: 0;
+		-webkit-transition: all 0.3s;
+		-o-transition: all 0.3s;
+		transition: all 0.3s;
+	}
+		.lec_main_menu_content.active {
+			opacity: 1;
+		}
+
+	
+	.lec_main_menu_content.active {
+		-webkit-transition-delay: 0.2s;
+		-o-transition-delay: 0.2s;
+		transition-delay: 0.2s;
+		pointer-events: auto;
+	}
+	.lec_main_menu_content_menu {
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		z-index: 6;
+		-webkit-transition: all 0.3s;
+		-o-transition: all 0.3s;
+		transition: all 0.3s;
+		opacity: 0;
+		overflow: hidden;
+		-webkit-transition-delay: 0;
+		-o-transition-delay: 0;
+		transition-delay: 0;
+		pointer-events: none;
+		transform:translateY(130px);
+		padding-bottom: 100px;
+	}
+	.lec_main_menu_content_menu_copy {
+		margin-top: 30px;
+		margin-left: 10px;
+	}
+		.lec_main_menu_content_menu.text-left .lec_footer_social {
+			margin-left: -10px;
+		}
+		.lec_main_menu_content_menu.text-right .lec_footer_social {
+			margin-right: -10px;
+		}
+	.lec_main_menu_content_logo {
+		position: absolute;
+		left: 15px;
+		top: 80px;
+		z-index: 5;
+	}
+
+		.lec_main_menu_content_menu.active {		
+			opacity: 1;
+			-webkit-transition-delay: 0.4s;
+			-o-transition-delay: 0.4s;
+			transition-delay: 0.4s;
+			transform:translateY(100px);
+			overflow-y: auto;
+			pointer-events: auto;
+		}
+		.lec_main_menu_content_menu ul {
+			padding: 0;
+			margin: 0;
+			list-style: none;
+		}
+		.lec_main_menu_content_menu ul ul {
+			display: none;
+		}
+			.lec_main_menu_content_menu ul ul a {
+				font-size: 14px;
+				-webkit-transition: all 0.3s;
+				-o-transition: all 0.3s;
+				transition: all 0.3s;
+				margin-right: 13px;
+			}
+			.lec_main_menu_content_menu.text-right ul ul a:hover {
+				margin-right: 20px;
+			} 
+
+		.lec_main_menu_content_menu a {
+			display: block;
+			text-decoration: none;
+			color: white;
+			text-transform: capitalize;
+			font-family: 'Muli', sans-serif;
+			font-size: 22px;
+			margin-right: 15px;
+		}
+		.lec_main_menu_content_menu.active a {
+			color: white;
+text-transform: capitalize;
+		}
+		.lec_main_menu_content_menu:hover a {
+	
+		}
+		
+.lec_logo {
+    position: fixed;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    z-index: 7;
+}		
+		
+@media only screen and (min-width:0px) and (max-width:600px){ 
+
+.lec_main_menu {
+	top: 60px;	
+}
+
+}
+
+@media only screen and (min-width:0px) and (max-width:480px){ 
+
+.f-nav-animated .lec_main_menu {
+	top: 40px;	
+}
+
+}

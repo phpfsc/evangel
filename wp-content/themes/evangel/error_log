@@ -1,0 +1,14 @@
+[15-Nov-2019 19:59:40 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/404.php on line 10
+[17-Nov-2019 15:33:40 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/404.php on line 10
+[12-Dec-2019 18:56:57 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/404.php on line 10
+[14-Dec-2019 19:10:37 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/404.php on line 10
+[09-Jan-2020 15:49:17 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/image.php on line 10
+[13-Jan-2020 11:05:49 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/404.php on line 10
+[15-Jan-2020 13:51:54 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/404.php on line 10
+[17-Jan-2020 12:46:39 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/image.php on line 10
+[30-Oct-2020 13:37:04 Etc/GMT] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[30-Oct-2020 13:37:04 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/index.php on line 17
+[31-Oct-2020 10:03:45 Etc/GMT] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[31-Oct-2020 10:03:45 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/index.php on line 17
+[02-Nov-2020 09:28:08 Etc/GMT] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[02-Nov-2020 09:28:08 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/evangelpublicati/public_html/wp-content/themes/evangel/index.php on line 17
